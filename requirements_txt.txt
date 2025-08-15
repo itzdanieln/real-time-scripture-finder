@@ -1,0 +1,23 @@
+# Web Framework
+flask
+
+# Streamlit UI
+streamlit
+streamlit-mic-recorder
+
+# AI/ML Libraries
+openai
+faster-whisper
+
+# Image Processing
+Pillow
+
+# HTTP Requests
+requests
+
+# Environment Variables
+python-dotenv
+
+# Audio Processing (dependencies for faster-whisper)
+torch
+torchaudio
